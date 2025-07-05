@@ -1,0 +1,45 @@
+Anno Lee
+Email: Anno.lee@example.com
+Phone: +1-555-123-4567
+Location: Taipei, Taiwan
+
+Summary
+--------
+Results-driven AI Software Engineer with 3+ years of experience in machine learning, NLP, and LLM-based solutions. Strong problem solver with a passion for building scalable AI tools that amplify productivity and business outcomes.
+
+Skills
+-------
+- Programming: Python, Java, C++
+- AI/ML: PyTorch, TensorFlow, Scikit-learn
+- NLP: Transformers, spaCy, NLTK
+- LLMs: OpenAI API, Hugging Face, Retrieval-Augmented Generation (RAG)
+- Data: Pandas, SQL, Data Visualization
+- Tools: Git, Docker, Linux
+
+Experience
+-----------
+AI Software Engineer, TechNova Inc. — 2022–Present
+  - Developed an internal RAG platform using OpenAI GPT-4 and FAISS to enable secure Q&A over enterprise documents.
+  - Led NLP pipeline refactoring, reducing inference latency by 30%.
+  - Collaborated with product and infra teams to deliver AI tools to 100+ users.
+
+Machine Learning Intern, SmartMinds — 2021–2022
+  - Built text classification models for customer feedback analysis (F1 up to 91%).
+  - Automated data labeling and preprocessing with Python scripts.
+
+Education
+----------
+B.Sc. in Computer Science, National Taiwan University, 2022
+
+Projects
+---------
+- Resume Q&A Chatbot: Built a ChatGPT-style app to answer questions based on uploaded resumes (Python, OpenAI API, FAISS).
+- News Summarization Tool: Created a transformer-based app for automatic news summaries.
+
+Languages
+----------
+- English (fluent), Mandarin (native)
+
+Certifications
+---------------
+- Deep Learning Specialization (Coursera, 2021)
