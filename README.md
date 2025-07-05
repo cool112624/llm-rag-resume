@@ -29,6 +29,7 @@ Ask questions about a resume (yours or a sample), and get AI-generated answers�
 ## ⚡️ Quickstart
 
 ```bash
+Option A - Local (Terminal / CLI)
 # 1. Clone the repository
 git clone https://github.com/yourname/llm-rag-resume.git
 cd llm-rag-resume
@@ -38,6 +39,14 @@ pip install -r requirements.txt
 
 # 3. Run the main script
 python rag_resume.py
+# - Enter the path to your resume file (e.g., sample_resume.txt)
+# - Enter your OpenAI API key when prompted
+# - Ask questions in your terminal
+
+Option B - Notebook (Jupyter / Google Colab)
+# 1. Open rag_resume.ipynb in Jupyter or Google Colab
+# 2. Follow the instructions in the notebook cells
+#    (You’ll be prompted to install dependencies, upload a resume, enter your API key, and start chatting)
 ```
 
 ---
@@ -57,6 +66,7 @@ python rag_resume.py
 ```text
 llm-rag-resume/
 ├── rag_resume.py
+├── rag_resume.ipynb
 ├── requirements.txt
 ├── README.md
 ├── sample_resume.pdf
