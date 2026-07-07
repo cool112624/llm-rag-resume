@@ -31,7 +31,7 @@ Ask questions about a resume (yours or a sample), and get AI-generated answersâ€
 ```bash
 Option A - Local (Terminal / CLI)
 # 1. Clone the repository
-git clone https://github.com/yourname/llm-rag-resume.git
+git clone https://github.com/cool112624/llm-rag-resume.git
 cd llm-rag-resume
 
 # 2. Install dependencies
