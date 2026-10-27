@@ -108,7 +108,7 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 
 ## 🙋‍♂️ Contact
 
-- For issues or feature requests, please open a [GitHub issue](https://github.com/yourname/llm-rag-resume/issues).
+- For issues or feature requests, please open a [GitHub issue](https://github.com/cool112624/llm-rag-resume/issues).
 - For questions, opportunities, or feedback, please fill out [this contact form](https://docs.google.com/forms/d/e/1FAIpQLSfRIMDgGXS8VLHJlp8IPwDT34I0F-RrjLZXe3BWQhyO8jApVg/viewform?usp=dialog).
 
 ---
